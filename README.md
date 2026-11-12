@@ -124,18 +124,5 @@ while True:
 [ ] Add unit tests with `unittest` or `pytest`
 [ ] Build a GUI or web version
 ---
-🤝 Contributing
-Contributions, issues and feature requests are welcome.
-Fork the repository
-Create a branch: `git checkout -b feature/your-feature`
-Commit your changes: `git commit -m "Add your feature"`
-Push to the branch: `git push origin feature/your-feature`
-Open a Pull Request
----
-📄 License
-This project is licensed under the MIT License.
----
-👤 Author
-Your Name
-GitHub: @your-username
-⭐ If you found this project helpful, consider giving it a star!
+
+
